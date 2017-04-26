@@ -1,0 +1,6 @@
+<div class="ui action input">
+  <input type="text" placeholder="{{placeholdertext}}" [(ngModel)]="value" >
+  <button class="ui button"  (click)="sendCode()" [disabled]="!!timer">
+    {{ btnText }}
+  </button>
+</div>
