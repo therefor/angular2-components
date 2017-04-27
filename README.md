@@ -8,8 +8,7 @@
     npm start
 ```
 
-> 为了配合upload组件的文件post需求，需要用Node.js搭建一个mini上传服务
-> 重开一个命令行窗口，然后
+> 为了配合upload组件的文件post需求，需要用Node.js搭建一个mini上传服务。重开一个命令行窗口，然后
 
 
 ```bash
@@ -35,7 +34,7 @@
 ##### validate [表单验证组件 示例代码](./ng2-components/src/app/example/validate/demo.ts)
 ##### progressBar [进度条组件 示例代码](./ng2-components/src/app/example/progressBar/demo.ts)
 ##### uploader [文件上传组件 示例代码](./ng2-components/src/app/example/uploader/demo.ts)
-#### countdown [验证码倒计时 示例代码](./ng2-components/src/app/example/smscode/demo.ts)
+##### countdown [验证码倒计时 示例代码](./ng2-components/src/app/example/smscode/demo.ts)
 
 
 ## UI展示
